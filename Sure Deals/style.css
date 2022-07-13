@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(26, 25, 25);
+    font-family: 'poppins';
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 1.5rem ;
+    padding-left: 1.5rem;
+}
+.hero{
+    background: black url(bg-hero.JPG);
+    background-size: cover;
+}
+.card1{
+    background-image: url(card1.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 300px;
+}
+.card2{
+    background-image: url(card2.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 300px;
+}
+.card3{
+    background-image: url(card3.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 300px;
+}
+.card{
+    border: none;
+    width: 340px;
+}
+.card-body{
+    background-color: rgb(48, 47, 47);
+}
+
+.card-text{
+    width: 300px;
+    font-size: 16px;
+}
